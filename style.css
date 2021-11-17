@@ -3,6 +3,10 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  background-color: #e0cffa;
+}
+
 *,
 *:before,
 *:after {
